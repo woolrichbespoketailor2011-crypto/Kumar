@@ -1,0 +1,5 @@
+{
+  "name": "FinTrack macOS",
+  "description": "A sophisticated, macOS-inspired personal finance and transaction recording application. Track income, expenses, and get AI-powered financial insights using Gemini.",
+  "requestFramePermissions": []
+}
